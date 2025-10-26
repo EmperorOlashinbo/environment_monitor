@@ -1,0 +1,17 @@
+{
+    "Isolation_Forest": {
+        "Anomalies": 232,
+        "Percentage": 4.470996338408171,
+        "Threshold": 0.6
+    },
+    "Linear_Regression": {
+        "MAE": 0.5781548471475191,
+        "RMSE": 1.7736050199317446,
+        "R\u00b2": 0.9782165740026527
+    },
+    "KNN": {
+        "Best_k": 1,
+        "Accuracy": 1.0,
+        "Weights": "distance"
+    }
+}
