@@ -1,7 +1,7 @@
 {
     "Isolation_Forest": {
-        "Anomalies": 429,
-        "Percentage": 2.4075425108030752,
+        "Anomalies": 737,
+        "Percentage": 4.136034569841181,
         "Threshold": 0.6
     },
     "Linear_Regression": {
